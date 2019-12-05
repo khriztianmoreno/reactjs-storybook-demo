@@ -1,2 +1,4 @@
-export Button from './Button'
-export H1 from './H1';
+import Button from './Button'
+import H1 from './H1';
+
+export { Button, H1 };
